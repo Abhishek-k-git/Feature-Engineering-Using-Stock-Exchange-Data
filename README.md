@@ -5,6 +5,7 @@
 ### Table of content
 * [Overview](#Overview)
 * [Data Source](#Data_Scource)
+* [Visualization](#Visualization)
 * [Evaluation](#Evaluation)
 
 ### Overview
@@ -38,6 +39,16 @@ For the purpose of model building, I have selected to datasets namely:
 
 > The above two datasets can be found in the link below:
 > [click to go to find above datasets](https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction/data)
+
+## Visualization
+
+![Yearly Avg. Stock Return by Sector](https://github.com/Abhishek-k-git/Feature-Engineering-Using-Stock-Exchange-Data/blob/main/image/plot%201.png)
+
+![Target Distribution by Sector](https://github.com/Abhishek-k-git/Feature-Engineering-Using-Stock-Exchange-Data/blob/main/image/plot%202.png)
+
+![Most Corelated Stocks with Target variable](https://github.com/Abhishek-k-git/Feature-Engineering-Using-Stock-Exchange-Data/blob/main/image/plot%203.png)
+
+![Stock Corelation Matrix](https://github.com/Abhishek-k-git/Feature-Engineering-Using-Stock-Exchange-Data/blob/main/image/plot%204.png)
 
 ### Evaluation
 
