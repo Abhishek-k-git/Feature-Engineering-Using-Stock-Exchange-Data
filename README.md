@@ -53,3 +53,5 @@ For the purpose of model building, I have selected to datasets namely:
 ### Evaluation
 
 The competition is evaluated on the Sharpe ratio of daily spread returns. Participants need to rank each active stock on a given day. To calculate returns for one day, the top 200 ranked stocks are bought and the bottom 200 are shorted. Stocks are weighted according to their rankings and the total portfolio returns are computed. This assumes that the stocks are bought the day after and sold on the subsequent day. Data must be submitted using the provided Python API to ensure no forward-looking bias.
+
+![Overall Feature Importance](https://github.com/Abhishek-k-git/Feature-Engineering-Using-Stock-Exchange-Data/blob/main/image/plot%205.png)
