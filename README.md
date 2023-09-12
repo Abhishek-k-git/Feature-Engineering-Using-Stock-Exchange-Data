@@ -1,6 +1,6 @@
 ## Feature Engineering using stock exchange dataset
 
-![poster]()
+![poster](https://github.com/Abhishek-k-git/Feature-Engineering-Using-Stock-Exchange-Data/blob/main/image/stock-exchange.jpg)
 
 ### Table of content
 * [Overview](#Overview)
